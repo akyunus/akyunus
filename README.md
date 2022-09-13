@@ -7,4 +7,4 @@ I'm a self-taught passionate hobbiest developer from 🇹🇷 Turkey
 
 ![](https://raw.githubusercontent.com/akyunus/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ---
-<img src="https://gpvc.arturio.dev/akyunus" /></p>
+![](https://gpvc.arturio.dev/akyunus) | ![](https://www.codewars.com/users/akyunus/badges/small)
