@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Yunus 👋
 
 I'm a self-taught passionate hobbiest developer from 🇹🇷 Turkey 
 
